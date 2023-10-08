@@ -10,13 +10,11 @@ redirect_from:
 
 I'm a third year undergraduate student from [Medical College](https://yxy.yzu.edu.cn/), [Yangzhou University](https://http://www.yzu.edu.cn). My research interest includes orthopaedics, lumbar degenerative diseases, spine surgery, leg numbness, and cervical radiculopathy.
 
-A data-driven personal website
-======
-I am very fortunate to be advised by [Prof. Xin-Min Feng](https://www.XXX.com/) and [Prof. Liang Zhang](https://www.XXX.com/)of spine surgery Lab from [Medical College](https://yxy.yzu.edu.cn/), Yangzhou University.
+I am very fortunate to be advised by Prof. Xin-Min Feng and [Prof. Liang Zhang](http://yxy.yzu.edu.cn/yjsjy/info/1032/1342.htm) of spine surgery Lab from [Medical College](https://yxy.yzu.edu.cn/), Yangzhou University.
 
 You can find my CV here: [Tao Zou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:mz120201657@yzu.edu.cn) / [Wechat](../images/wechat.jpg) / [phone number](+86 15851528886)
+[Email](mailto:mz120201657@yzu.edu.cn)：mz120201657@yzu.edu.cn / [Wechat](../images/wechat.jpg) / [Phone](+86 15851528886)
 
 Getting started
 ======
